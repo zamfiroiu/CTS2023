@@ -1,6 +1,4 @@
-package ro.ase.cts.agentie.clase;
-
-import ro.ase.cts.factorymethod.agentie.clase.PachetTuristic;
+package ro.ase.cts.factorymethod.agentie.clase;
 
 public class PachetTransport implements PachetTuristic {
 
