@@ -1,4 +1,6 @@
-package ro.ase.cts.agentie.clase;
+package ro.ase.cts.simplefactory.agentie.clase;
+
+import ro.ase.cts.factorymethod.agentie.clase.PachetTuristic;
 
 public class PachetCazare implements PachetTuristic {
 

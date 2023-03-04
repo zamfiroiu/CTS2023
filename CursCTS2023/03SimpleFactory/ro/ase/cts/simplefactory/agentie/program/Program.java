@@ -1,8 +1,8 @@
-package ro.ase.cts.agentie.program;
+package ro.ase.cts.simplefactory.agentie.program;
 
-import ro.ase.cts.agentie.clase.AgentieFactory;
-import ro.ase.cts.agentie.clase.PachetTuristic;
-import ro.ase.cts.agentie.clase.TipPachet;
+import ro.ase.cts.factorymethod.agentie.clase.PachetTuristic;
+import ro.ase.cts.simplefactory.agentie.clase.AgentieFactory;
+import ro.ase.cts.simplefactory.agentie.clase.TipPachet;
 
 public class Program {
 

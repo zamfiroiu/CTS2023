@@ -1,4 +1,4 @@
-package ro.ase.cts.agentie.clase;
+package ro.ase.cts.simplefactory.agentie.clase;
 
 public enum TipPachet {
 	pachetCazare,

@@ -1,4 +1,9 @@
-package ro.ase.cts.agentie.clase;
+package ro.ase.cts.simplefactory.agentie.clase;
+
+import ro.ase.cts.factorymethod.agentie.clase.PachetCazare;
+import ro.ase.cts.factorymethod.agentie.clase.PachetCazareTransport;
+import ro.ase.cts.factorymethod.agentie.clase.PachetTransport;
+import ro.ase.cts.factorymethod.agentie.clase.PachetTuristic;
 
 public class AgentieFactory {
 	
