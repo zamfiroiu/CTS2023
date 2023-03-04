@@ -1,4 +1,4 @@
-package ro.ase.cts.v2_builder;
+package ro.ase.cts.builder.v1_builder;
 
 public class PachetTransport {
 	private boolean hasWiFi;
@@ -6,15 +6,6 @@ public class PachetTransport {
 	private boolean isFumator;
 	private boolean hasAC;
 	private boolean hasTV;	
-
-	public PachetTransport() {
-		super();
-		this.hasWiFi = false;
-		this.hasAnimale = false;
-		this.isFumator = false;
-		this.hasAC = false;
-		this.hasTV = false;
-	}
 	
 	public PachetTransport(boolean hasWiFi, boolean hasAnimale, boolean isFumator, boolean hasAC, boolean hasTV) {
 		super();

@@ -1,4 +1,4 @@
-package ro.ase.cts.contbancar;
+package ro.ase.cts.builder.contbancar;
 
 public class ContBancarBuilder implements IBuilder {
 

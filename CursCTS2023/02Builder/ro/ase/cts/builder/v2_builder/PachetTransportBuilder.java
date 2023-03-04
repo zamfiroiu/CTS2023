@@ -1,4 +1,4 @@
-package ro.ase.cts.v2_builder;
+package ro.ase.cts.builder.v2_builder;
 
 public class PachetTransportBuilder implements Builder {
 	private boolean hasWiFi;

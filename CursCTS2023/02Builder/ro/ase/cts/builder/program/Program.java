@@ -1,8 +1,8 @@
-package ro.ase.cts.program_builder;
+package ro.ase.cts.builder.program;
 
-import ro.ase.cts.v2_builder.PachetTransport;
-import ro.ase.cts.v2_builder.PachetTransportBuilder;
-import ro.ase.cts.v3_builder.PachetCalatorie;
+import ro.ase.cts.builder.v2_builder.PachetTransport;
+import ro.ase.cts.builder.v2_builder.PachetTransportBuilder;
+import ro.ase.cts.builder.v3_builder.PachetCalatorie;
 
 public class Program {
 

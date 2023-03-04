@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ro.ase.cts.contbancar;
+package ro.ase.cts.builder.contbancar;
 
 /**
  * @author alinZ
